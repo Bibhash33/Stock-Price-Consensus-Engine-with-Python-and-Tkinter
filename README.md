@@ -1,7 +1,3 @@
-Stock-Price-Consensus-Engine-with-Python-and-Tkinter
-Below is a **clean, professional, GitHub-ready `README.txt`** written in a **natural Indian fluent-English tone**, clear for recruiters, clients, and MNC reviewers.
-
-
 Stock Price Consensus Engine (Python)
 
 A lightweight yet reliable Python-based stock price fetching system that collects data from multiple sources, validates it, removes outliers, and displays the final consensus price in a clean desktop UI built with Tkinter.
